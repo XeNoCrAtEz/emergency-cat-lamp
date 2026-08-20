@@ -16,8 +16,8 @@ When power is present, the circuit turns OFF the LED and charge the Battery. Whe
 
 <table>
   <tr>
-    <img src="images/demo1.jpeg" alt="image1" width="300">
-    <img src="images/demo2.jpeg" alt="image2" width="300">
+    <img src="images/demo1.jpeg" alt="image1" width="45%">
+    <img src="images/demo2.jpeg" alt="image2" width="45%">
   </tr>
 </table>
 
