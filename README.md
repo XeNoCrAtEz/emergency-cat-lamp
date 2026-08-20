@@ -14,8 +14,13 @@ When power is present, the circuit turns OFF the LED and charge the Battery. Whe
 
 ## 🎬 Showcases
 
-<img src="images/demo1.jpeg" alt="image1" width="500">
-<img src="images/demo2.jpeg" alt="image2" width="500">
+<table>
+  <tr>
+    <img src="images/demo1.jpeg" alt="image1" width="300">
+    <img src="images/demo2.jpeg" alt="image2" width="300">
+  </tr>
+</table>
+
 
 
 
