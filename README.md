@@ -8,14 +8,14 @@ Auto ON emergency lamp in case of power outages.
 
 When power is present, the circuit turns OFF the LED and charge the Battery. When power is disconnected, the circuit turns ON the LED. The LED is driven by a constant current source circuit to protect itself from burning.
 
-![block_diagram](images\block_diagram.jpg)
+![block_diagram](images/block_diagram.jpg)
 
 
 
 ## 🎬 Showcases
 
-![image 1](images\demo1.jpeg)
-![image 2](images\demo2.jpeg)
+![image 1](images/demo1.jpeg)
+![image 2](images/demo2.jpeg)
 
 
 
